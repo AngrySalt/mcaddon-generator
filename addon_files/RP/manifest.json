@@ -1,0 +1,27 @@
+{
+    "format_version": 3,
+    "header": {
+        "name": "",
+        "description": "",
+        "min_engine_version": {},
+        "version": "1.0.0",
+        "uuid": ""
+    },
+    "metadata": {
+        "authors": [
+        ],
+        "generated_with": {
+            "mcaddon": [
+                "1.0.0"
+            ]
+        }
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "description": "Allows the addition of textures, models, sounds, and more into your addon",
+            "version": "1.0.0",
+            "uuid": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mcaddon",
+  "version": "1.0.0",
+  "description": "Enables creators to be more efficient in creating and packaging their addons",
+  "license": "ISC",
+  "author": "AngrySalt",
+  "type": "commonjs",
+  "main": "scripts/output/index.js",
+  "keywords": [
+    "minecraft"
+  ],
+  "bin": {
+    "mcaddon": "scripts/output/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "commander": "^14.0.3",
+    "uuid": "^13.0.0",
+    "zip-a-folder": "^6.1.0"
+  }
+}

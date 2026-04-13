@@ -1,0 +1,27 @@
+{
+    "format_version": 3,
+    "header": {
+        "name": "",
+        "description": "",
+        "min_engine_version": {},
+        "version": "1.0.0",
+        "uuid": ""
+    },
+    "metadata": {
+        "authors": [
+        ],
+        "generated_with": {
+            "mcaddon": [
+                "1.0.0"
+            ]
+        }
+    },
+    "modules": [
+        {
+            "type": "data",
+            "description": "Allows the addition of blocks, items, and entities into your addon",
+            "version": "1.0.0",
+            "uuid": ""
+        }
+    ]
+}
