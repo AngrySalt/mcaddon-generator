@@ -1,6 +1,6 @@
 {
   "name": "mcaddon-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enables creators to be more efficient in creating and packaging their addons",
   "license": "ISC",
   "author": "AngrySalt",
@@ -13,7 +13,9 @@
     "mcaddon": "scripts/output/index.js"
   },
   "devDependencies": {
-    "@types/node": "^25.5.2",
+    "@types/node": "^25.5.2"
+  },
+  "dependencies": {
     "commander": "^14.0.3",
     "uuid": "^13.0.0",
     "zip-a-folder": "^6.1.0"
