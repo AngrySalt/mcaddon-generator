@@ -1,6 +1,6 @@
 {
-  "name": "mcaddon",
-  "version": "1.0.0",
+  "name": "mcaddon-generator",
+  "version": "1.0.1",
   "description": "Enables creators to be more efficient in creating and packaging their addons",
   "license": "ISC",
   "author": "AngrySalt",

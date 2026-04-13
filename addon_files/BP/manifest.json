@@ -11,8 +11,8 @@
         "authors": [
         ],
         "generated_with": {
-            "mcaddon": [
-                "1.0.0"
+            "mcaddon-generator": [
+                "1.0.1"
             ]
         }
     },
